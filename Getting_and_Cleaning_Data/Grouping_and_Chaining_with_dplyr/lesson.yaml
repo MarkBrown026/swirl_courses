@@ -223,25 +223,25 @@
   Output: To help drive the point home, let's work through a few more examples of chaining.
 
 - Class: script
-  Output: Let's build a chain of dplyr commands one step at a time, starting with the script I just opened for you.
+  Output: Let's build a chain of dplyr commands one step at a time, starting with the script I just opened for you, , then submit(). 
   AnswerTests: script_vals_identical()
   Hint: Follow the directions in the script comments very carefully. If R gave you an error above, try to understand what it is telling you. If you get stuck, type reset() to start with a fresh script, then save the script and type submit() when you are ready.
   Script: chain1.R
 
 - Class: script
-  Output: Let's add to the chain.
+  Output: Let's add to the chain, , then submit() again.
   AnswerTests: script_vals_identical()
   Hint: Follow the directions in the script comments very carefully. If R gave you an error above, try to understand what it is telling you. If you get stuck, type reset() to start with a fresh script, then save the script and type submit() when you are ready.
   Script: chain2.R
 
 - Class: script
-  Output: A little bit more now.
+  Output: A little bit more now, , then submit() again.
   AnswerTests: script_vals_identical()
   Hint: Follow the directions in the script comments very carefully. If R gave you an error above, try to understand what it is telling you. If you get stuck, type reset() to start with a fresh script, then save the script and type submit() when you are ready.
   Script: chain3.R
 
 - Class: script
-  Output: And finish it off.
+  Output: And finish it off, , then submit() again.
   AnswerTests: script_vals_identical()
   Hint: Follow the directions in the script comments very carefully. If R gave you an error above, try to understand what it is telling you. If you get stuck, type reset() to start with a fresh script, then save the script and type submit() when you are ready.
   Script: chain4.R
